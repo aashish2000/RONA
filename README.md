@@ -4,6 +4,8 @@
 
 Accepted in the [In2Writing Workshop](https://in2writing.glitch.me/), co-located with NAACL 2025.
 
+Paper Link: [https://arxiv.org/abs/2503.10997](https://arxiv.org/abs/2503.10997)
+
 ## TL;DR
 
 We propose RONA, a Coherence Relation-based pragmatic prompting strategy for MLLMs. Our approach generates pragmatically diverse captions, improving over existing baselines that only focus on syntax and semantic variations. 
