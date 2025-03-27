@@ -1,0 +1,9 @@
+DATASET_ROOT_DIRS = {
+    "tweets_sl" : "/path/to/dataset",
+    "anna"      : "/path/to/dataset"
+}
+LOCATION="us-east5"
+
+AZURE_OPENAI_ENDPOINT="https://<deployment>.openai.azure.com/"
+AZURE_OPENAI_API_KEY="YOUR_API_KEY"
+AZURE_API_VERSION="2024-08-01-preview"
