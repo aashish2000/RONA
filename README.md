@@ -2,13 +2,13 @@
 
 [Aashish Anantha Ramakrishnan](https://aashish2000.github.io), [Aadarsh Anantha Ramakrishnan](https://www.linkedin.com/in/aadarsh-a/), [Dongwon Lee](https://scholar.google.com/citations?user=MzL-WnEAAAAJ&hl=en)
 
-Accepted in the [4th In2Writing Workshop](https://in2writing.glitch.me/), co-located with NAACL 2025.
+Accepted in the [4th In2Writing Workshop](https://aclanthology.org/volumes/2025.in2writing-1/), co-located with NAACL 2025.
 
 <p align="left">
   <a href='https://arxiv.org/abs/2503.10997'>
   <img src='https://img.shields.io/badge/Arxiv-2503.10997-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
-  <a href='https://arxiv.org/pdf/2503.10997'>
-  <img src='https://img.shields.io/badge/Paper-PDF-purple?style=flat&logo=arXiv&logoColor=yellow'></a> 
+  <a href='https://aclanthology.org/2025.in2writing-1.8.pdf'>
+  <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=yellow'></a> 
 </p>
 
 ## TL;DR
@@ -79,14 +79,25 @@ All scores will be saved in the same `llm_outputs/` folder. Collected average sc
 ## Citing
 If you find our work useful, please consider citing:
 ```
-@inproceedings{ramakrishnan2025rona,
-  title        = {RONA: Pragmatically Diverse Image Captioning with Coherence Relations},
-  author       = {Aashish Anantha Ramakrishnan and Aadarsh Anantha Ramakrishnan and Dongwon Lee},
-  booktitle    = {Proceedings of the NAACL Fourth Workshop on Intelligent and Interactive Writing Assistants (In2Writing)},
-  location     = {Albuquerque, New Mexico},
-  month        = {May},
-  year         = {2025},
-  note         = {Accepted for presentation; non-archival.},
-  url          = {https://arxiv.org/abs/2503.10997},
+@inproceedings{anantha-ramakrishnan-etal-2025-rona,
+    title = "{RONA}: Pragmatically Diverse Image Captioning with Coherence Relations",
+    author = "Anantha Ramakrishnan, Aashish  and
+      Ramakrishnan, Aadarsh Anantha  and
+      Lee, Dongwon",
+    editor = "Padmakumar, Vishakh  and
+      Gero, Katy  and
+      Wambsganss, Thiemo  and
+      Sterman, Sarah  and
+      Huang, Ting-Hao  and
+      Zhou, David  and
+      Chung, John",
+    booktitle = "Proceedings of the Fourth Workshop on Intelligent and Interactive Writing Assistants (In2Writing 2025)",
+    month = may,
+    year = "2025",
+    address = "Albuquerque, New Mexico, US",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.in2writing-1.8/",
+    pages = "74--86",
+    ISBN = "979-8-89176-239-8"
 }
 ```
